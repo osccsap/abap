@@ -1,0 +1,3 @@
+report ztest_shareslack.
+
+select single * from mara into @data(ls_mara).
